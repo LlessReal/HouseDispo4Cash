@@ -32,8 +32,8 @@ nav, ul, li {
 
 .hero-image {
     display: flex; justify-content: center; align-content: center;
-    background-image:url('Big House 1.jpg'); background-repeat: no-repeat; background-size: 100vw 600px;
-    height: 600px;
+    background-image:url('Big House 1.jpg'); background-repeat: no-repeat; background-size: 100vw 900px;
+    height: 900px;
     filter: brightness(0.5);
 }
 .hero-text {
@@ -68,9 +68,24 @@ nav, ul, li {
     cursor: pointer;
 }
 
-body {
+.floating-text {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s ease, transform 1s ease;
+}
+  
+.floating-text.visible {
+opacity: 1;
+transform: translateY(0);
+}
+
+footer {
+    color: gray; background-color: rgb(53 56 65);
+    display: flex; flex-direction: row; justify-content: center;
+    padding: 30px;
 
 }
+  
 a {
     text-decoration: none;
     color: black;
@@ -80,7 +95,7 @@ a {
 }
 
 a:hover {
-    color: rgb(119, 179, 29);
+    color: rgb(63, 100, 8);
     text-shadow: 0 0 15px yellow, 7px 7px 3px #444, 5px 5px 10px yellowgreen;
 }
 

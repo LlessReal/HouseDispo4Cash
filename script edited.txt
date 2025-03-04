@@ -11,33 +11,24 @@ Header:
 • Login/Sign-Up (for registered investors and sellers) 😅
 
 Hero Section:
-• Large Image: Use a high-quality image showcasing homes, buildings, or real estate investments in various conditions (e.g., fixers, foreclosures, distressed properties).
+• Large Image: Use a high-quality image showcasing homes, buildings, or real estate investments in various conditions (e.g., fixers, foreclosures, distressed properties). ✅
 • Search Bar: Include a search bar where investors or buyers can filter properties by location, price range, deal type (fixer-upper, foreclosure, etc.), and other key criteria.
 • Example: “Find Below-Market Real Estate Deals in [Your City]”
-
 
 
 Call to Action (CTA):
 • Prominent CTA buttons like:
 • “View Wholesale Deals” (Leading to property listings page)
-
 • “Get Property Alerts” (For investors to get instant updates)
-
 
 
 Featured Deals Section:
 • Display a few highlighted wholesale deals with:
-
 • Property Image
-
 • Location
-
 • Price
-
 • Quick Details (Square footage, beds/baths, condition)
-
 • CTA Button like “View Deal Details”
-
 
 
 Why Choose HouseDispo Section:
@@ -61,9 +52,7 @@ Property Listings Format:
 
 Each listing should include:
 • Property Image: High-quality photo or video of the property.
-
 • Deal Price: Show the wholesale price, highlighting the discount off market value.
-
 • Property Details: Address, square footage, number of bedrooms/bathrooms, and condition.
 
 • Property Type: Specify if it’s a fixer-upper, foreclosure, etc.
