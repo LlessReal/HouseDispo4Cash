@@ -9,7 +9,7 @@ body {
 header {
     display: flex; justify-content: space-between; align-items: center;
     padding: 10px;
-    background-color: rgb(53 56 65);
+    background-color: rgb(51 59 89);
 }
 
 nav {
@@ -24,6 +24,9 @@ ul {
 nav, ul, li {
     gap: 40px;
     
+}
+li {
+    flex: 1 0 auto;
 }
 
 .Impacted {
@@ -117,4 +120,12 @@ a:hover {
 img {
     border-radius: 40px;
     width:150px; height:125px;
+}
+
+li a {
+    display:block;
+    text-decoration: none;
+    font-family: "Impact";
+    text-align: center;
+    padding: 40px;
 }
